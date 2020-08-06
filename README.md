@@ -1,5 +1,5 @@
 # NextKiwiChat
-
+## Demo https://kiwichat.ml/demo-nextkiwichat
 ## Description
 Allows you to embed a KiwiIRC IRC client with a shortcode.
 
