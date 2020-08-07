@@ -10,6 +10,8 @@ Upload the “nextkiwichat” folder to the “/wp-content/plugins/” directory
 Activate the plugin through the “Plugins” menu in WordPress.
 Place “[nextkiwichat]” shortcode in your pages or posts.
 
+Advanced Settings: (no need to edit the code) `[nextkiwichat width="100%" height="550px" server="irc.freenode.com" channel="#code" theme="radioactive"]`
+
 https://kiwichat.github.io/wordpress/plugins/nextkiwichat.zip
 
 ### releases https://github.com/KiwiChat/NextKiwiChat/archive/1.0.zip
