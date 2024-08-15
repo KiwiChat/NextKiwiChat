@@ -3,9 +3,9 @@
 Plugin Name: NextKiwiChat
 Plugin URI: https://github.com/kiwichat/NextKiwiChat
 Description: Allows you to embed a KiwiIRC IRC client with a shortcode.
-Version: 1.0
+Version: 1.1
 Author: KiwiChat &lt;<a href="mailto:kiwichat@email.com">kiwichat@mail.com</a>&gt;
-Author URI: https://showchat.tk
+Author URI: https://kiwichat.eu.org
 License: GNU General Public License
 */
 
@@ -14,8 +14,8 @@ function nextchat_embed_func($atts) {
 		'width'		=> '100%',
 		'height'	=> '550px',
 		'plugins'	=> 'conference',
-		'host'	=> 'irc.freenode.com',
-		'channel'	=> '#lobby',
+		'host'	=> 'irc.liber.chat',
+		'channel'	=> '#libera',
 		'theme'	    => 'sky'
 	), $atts));
 		//User Nick
